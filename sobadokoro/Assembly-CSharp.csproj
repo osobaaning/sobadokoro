@@ -61,9 +61,14 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.1.14f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Sei_workSpace\Sei_Script\PlayerStatusManager.cs" />
     <Compile Include="Assets\inomata\puroguramu\Deck.cs" />
     <Compile Include="Assets\inomata\puroguramu\Playing_cards.cs" />
+    <Compile Include="Assets\Sei_workSpace\Sei_Script\Dealer.cs" />
     <Compile Include="Assets\inomata\puroguramu\CardGraphics.cs" />
+    <Compile Include="Assets\Sei_workSpace\Sei_Script\PlayerAction.cs" />
+    <Compile Include="Assets\Sei_workSpace\Sei_Script\Distribute.cs" />
+    <Compile Include="Assets\Sei_workSpace\Sei_Script\Deck.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\2D Cards Game Art Pack\Demo\READ ME.txt" />
