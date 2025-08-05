@@ -1,14 +1,17 @@
 using UnityEngine;
 
-public class NewMonoBehaviourScript : MonoBehaviour
+namespace ino
 {
-    private void OnEnable()
+    public class NewMonoBehaviourScript : MonoBehaviour
     {
-        
-    }
-    // Update is called once per frame
-    void Update()
-    {
-        
+        private void OnEnable()
+        {
+
+        }
+        // Update is called once per frame
+        void Update()
+        {
+
+        }
     }
 }
