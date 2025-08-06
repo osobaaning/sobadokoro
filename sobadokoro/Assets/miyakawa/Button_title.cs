@@ -16,6 +16,10 @@ public class Title_scene : MonoBehaviour
     {
         // 初期位置を上に設定
         transform.position = upPosition;
+
+        // オプションで保存された音量を取得し反映
+        float savedVolume = PlayerPrefs.GetFloat("Volume", 0.0f);
+        AudioListener.volume = savedVolume;
     }
 
     void Update()

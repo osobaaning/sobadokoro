@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\miyakawa\Rulescene.cs" />
+    <Compile Include="Assets\miyakawa\Option.cs" />
     <Compile Include="Assets\miyakawa\Button_title.cs" />
     <Compile Include="Assets\miyakawa\Resultscene.cs" />
   </ItemGroup>

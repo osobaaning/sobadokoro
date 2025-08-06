@@ -10,22 +10,20 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: Title
+  m_Name: Option
   m_EditorClassIdentifier: 
-  templateScene: {fileID: 102900000, guid: 59a1a9ff64bf51b408c74683b38e7aaa, type: 3}
+  templateScene: {fileID: 102900000, guid: 2af3dcba2302f0546b200fced80faddd, type: 3}
   templateName: 
   description: 
   preview: {fileID: 0}
   dependencies:
-  - dependency: {fileID: 2800000, guid: a691b25c60a279f48b65dc51ebc40a56, type: 3}
-    instantiationMode: 0
   - dependency: {fileID: 8300000, guid: b25b9174229be214390407918f8ab4ea, type: 3}
     instantiationMode: 1
   - dependency: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     instantiationMode: 0
   - dependency: {fileID: 2800000, guid: 398f25294ba330843990fef7859b890c, type: 3}
     instantiationMode: 0
-  - dependency: {fileID: 2800000, guid: 190bf666da8f57943a9f0aa23eae706c, type: 3}
+  - dependency: {fileID: 2800000, guid: c936a55f9212c5547bf3c37585f5395c, type: 3}
     instantiationMode: 0
   templatePipeline: {fileID: 0}
   badge: {fileID: 0}
