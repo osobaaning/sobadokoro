@@ -61,14 +61,25 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.1.14f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\miyakawa\Rulescene.cs" />
+    <Compile Include="Assets\inomata\puroguramu\Playing_cards_LOCAL_280.cs" />
     <Compile Include="Assets\Sei_workSpace\Sei_Script\PlayerStatusManager.cs" />
+    <Compile Include="Assets\inomata\puroguramu\Playing_cards_LOCAL_343.cs" />
+    <Compile Include="Assets\inomata\puroguramu\Playing_cards_BASE_343.cs" />
     <Compile Include="Assets\inomata\puroguramu\Deck.cs" />
     <Compile Include="Assets\inomata\puroguramu\Playing_cards.cs" />
+    <Compile Include="Assets\inomata\puroguramu\Playing_cards_BACKUP_280.cs" />
+    <Compile Include="Assets\inomata\puroguramu\Playing_cards_REMOTE_343.cs" />
     <Compile Include="Assets\Sei_workSpace\Sei_Script\Dealer.cs" />
     <Compile Include="Assets\inomata\puroguramu\CardGraphics.cs" />
     <Compile Include="Assets\Sei_workSpace\Sei_Script\PlayerAction.cs" />
     <Compile Include="Assets\Sei_workSpace\Sei_Script\Distribute.cs" />
+    <Compile Include="Assets\inomata\puroguramu\Playing_cards_BACKUP_343.cs" />
     <Compile Include="Assets\Sei_workSpace\Sei_Script\Deck.cs" />
+    <Compile Include="Assets\inomata\puroguramu\Playing_cards_BASE_280.cs" />
+    <Compile Include="Assets\miyakawa\Button_title.cs" />
+    <Compile Include="Assets\inomata\puroguramu\Playing_cards_REMOTE_280.cs" />
+    <Compile Include="Assets\miyakawa\Resultscene.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\2D Cards Game Art Pack\Demo\READ ME.txt" />
@@ -1074,6 +1085,10 @@
       <HintPath>Library\ScriptAssemblies\Unity.2D.Common.Path.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.Recorder">
+      <HintPath>Library\ScriptAssemblies\Unity.Recorder.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
       <HintPath>Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
       <Private>False</Private>
@@ -1150,12 +1165,20 @@
       <HintPath>Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.Bindings.OpenImageIO.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Bindings.OpenImageIO.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.Collections">
       <HintPath>Library\ScriptAssemblies\Unity.Collections.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="PPv2URPConverters">
       <HintPath>Library\ScriptAssemblies\PPv2URPConverters.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Recorder.Base">
+      <HintPath>Library\ScriptAssemblies\Unity.Recorder.Base.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Rendering.LightTransport.Editor">
@@ -1272,6 +1295,10 @@
     </Reference>
     <Reference Include="Unity.Burst.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Recorder.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Recorder.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Burst">

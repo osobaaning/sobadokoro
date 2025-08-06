@@ -3,42 +3,19 @@ using UnityEngine;
 using System.Collections.Generic;
 using sei;
 
-namespace ino
+public class Aceof : MonoBehaviour
 {
-
-    public class Aceof : MonoBehaviour
+    public enum Mark
     {
-        public enum Mark
-        {
-            Hearts,
-            Diamonds,
-            Spades,
-            Clubs
-        }
+        Hearts,
+        Diamonds,
+        Spades,
+        Clubs
+    }
 
-        public Mark mark { get; private set; }
-        public int number { get; private set; }
+    public Mark mark { get; private set; }
+    public int number { get; private set; }
 
-<<<<<<< HEAD
-        private CardGraphics cardGraphics;
-        private SpriteRenderer spriteRenderer;
-
-        // Start is called once before the first execution of Update after the MonoBehaviour is created
-        void Start()
-        {
-            cardGraphics = GameObject.Find("CardManager").GetComponent<CardGraphics>();
-            spriteRenderer = GetComponent<SpriteRenderer>();
-
-            SetType(Mark.Clubs, 1);
-        }
-
-        public void SetType(Mark mark, int number)
-        {
-            this.mark = mark;
-            this.number = number;
-            spriteRenderer.sprite = cardGraphics.GetCardSprite(mark, number);
-        }
-=======
     private CardGraphics cardGraphics;
     private SpriteRenderer spriteRenderer;
     private Distribute distribute;
@@ -86,6 +63,5 @@ namespace ino
         this.number = number;
         spriteRenderer.sprite = cardGraphics.GetCardSprite(mark, number);
         spriteRenderer.sortingOrder = distribute.myCards.Count + 1;
->>>>>>> origin/sei_work002
     }
 }

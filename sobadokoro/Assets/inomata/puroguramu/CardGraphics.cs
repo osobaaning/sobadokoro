@@ -1,13 +1,16 @@
 
 using UnityEngine;
 
-public class CardGraphics : MonoBehaviour
+namespace ino
 {
-    [SerializeField]
-    private Sprite[] card;
-
-    public Sprite GetCardSprite(Aceof.Mark mark, int number)
+    public class CardGraphics : MonoBehaviour
     {
-        return card[(int)mark * 13 + (number - 1)];
+        [SerializeField]
+        private Sprite[] card;
+
+        public Sprite GetCardSprite(Aceof.Mark mark, int number)
+        {
+            return card[(int)mark * 13 + (number - 1)];
+        }
     }
 }
