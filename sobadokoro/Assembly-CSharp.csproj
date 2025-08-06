@@ -61,9 +61,12 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.1.14f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\miyakawa\Rulescene.cs" />
     <Compile Include="Assets\inomata\puroguramu\Deck.cs" />
     <Compile Include="Assets\inomata\puroguramu\Playing_cards.cs" />
     <Compile Include="Assets\inomata\puroguramu\CardGraphics.cs" />
+    <Compile Include="Assets\miyakawa\Button_title.cs" />
+    <Compile Include="Assets\miyakawa\Resultscene.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\2D Cards Game Art Pack\Demo\READ ME.txt" />

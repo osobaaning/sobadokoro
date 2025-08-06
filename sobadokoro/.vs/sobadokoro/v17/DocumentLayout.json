@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miyak\\Downloads\\Unity_\u6388\u696D\\1week\\sobadokoro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7917F66F-BBD5-7FDF-5AA2-76B1F2EFDFD3}|Assembly-CSharp.csproj|c:\\users\\miyak\\downloads\\unity_\u6388\u696D\\1week\\sobadokoro\\assets\\miyakawa\\button_title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7917F66F-BBD5-7FDF-5AA2-76B1F2EFDFD3}|Assembly-CSharp.csproj|solutionrelative:assets\\miyakawa\\button_title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7917F66F-BBD5-7FDF-5AA2-76B1F2EFDFD3}|Assembly-CSharp.csproj|C:\\Users\\miyak\\Downloads\\Unity_\u6388\u696D\\1week\\sobadokoro\\assets\\miyakawa\\resultscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7917F66F-BBD5-7FDF-5AA2-76B1F2EFDFD3}|Assembly-CSharp.csproj|solutionrelative:assets\\miyakawa\\resultscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7917F66F-BBD5-7FDF-5AA2-76B1F2EFDFD3}|Assembly-CSharp.csproj|C:\\Users\\miyak\\Downloads\\Unity_\u6388\u696D\\1week\\sobadokoro\\assets\\miyakawa\\rulescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7917F66F-BBD5-7FDF-5AA2-76B1F2EFDFD3}|Assembly-CSharp.csproj|solutionrelative:assets\\miyakawa\\rulescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Button_title.cs",
+              "DocumentMoniker": "C:\\Users\\miyak\\Downloads\\Unity_\u6388\u696D\\1week\\sobadokoro\\Assets\\miyakawa\\Button_title.cs",
+              "RelativeDocumentMoniker": "Assets\\miyakawa\\Button_title.cs",
+              "ToolTip": "C:\\Users\\miyak\\Downloads\\Unity_\u6388\u696D\\1week\\sobadokoro\\Assets\\miyakawa\\Button_title.cs",
+              "RelativeToolTip": "Assets\\miyakawa\\Button_title.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T08:18:50.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resultscene.cs",
+              "DocumentMoniker": "C:\\Users\\miyak\\Downloads\\Unity_\u6388\u696D\\1week\\sobadokoro\\Assets\\miyakawa\\Resultscene.cs",
+              "RelativeDocumentMoniker": "Assets\\miyakawa\\Resultscene.cs",
+              "ToolTip": "C:\\Users\\miyak\\Downloads\\Unity_\u6388\u696D\\1week\\sobadokoro\\Assets\\miyakawa\\Resultscene.cs",
+              "RelativeToolTip": "Assets\\miyakawa\\Resultscene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T08:10:40.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rulescene.cs",
+              "DocumentMoniker": "C:\\Users\\miyak\\Downloads\\Unity_\u6388\u696D\\1week\\sobadokoro\\Assets\\miyakawa\\Rulescene.cs",
+              "RelativeDocumentMoniker": "Assets\\miyakawa\\Rulescene.cs",
+              "ToolTip": "C:\\Users\\miyak\\Downloads\\Unity_\u6388\u696D\\1week\\sobadokoro\\Assets\\miyakawa\\Rulescene.cs",
+              "RelativeToolTip": "Assets\\miyakawa\\Rulescene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T06:21:42.675Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
