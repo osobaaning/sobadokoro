@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3158221834911668216}
   - component: {fileID: 3704554070816307128}
-  - component: {fileID: 5473590481944994330}
+  - component: {fileID: -6800170081949456409}
   m_Layer: 0
   m_Name: Card
   m_TagString: Untagged
@@ -88,7 +88,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &5473590481944994330
+--- !u!114 &-6800170081949456409
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
