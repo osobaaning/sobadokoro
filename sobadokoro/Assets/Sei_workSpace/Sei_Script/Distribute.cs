@@ -39,6 +39,11 @@ namespace sei
         }
         public void hit()
         {
+            if(myCards.Count >= maxCards)
+            {
+                Debug.Log("‚±‚êˆÈãƒJ[ƒh‚Íˆø‚¯‚Ü‚¹‚ñ");
+                return;
+            }
             myCards.Add(Instantiate(cardPrefab, firstCardTransform + distance * myCards.Count, Quaternion.identity));
             //GameObject newCard = Instantiate(cardPrefab, firstCardTransform + distance * myCards.Count, Quaternion.identity);
         }
